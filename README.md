@@ -19,6 +19,7 @@ Test scenarios included simulated attacks using tools like `hping3` (for SYN flo
 * **Attack detection logic** with customizable thresholds
 * **Cross-protocol support** (ARP, IPv4, IPv6, TCP, UDP)
 * Simple terminal output with IP-based counters and summary
+  
 ---
 
 ## 📡 What is a Sniffer?
