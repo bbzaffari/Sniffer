@@ -1,7 +1,7 @@
 # Network Sniffer 2023/02
 
-![Badge](https://img.shields.io/badge/Educational-Purpose-blue?style=for-the-badge&logo=academia) 
-
+![License](https://img.shields.io/badge/use-educational_or_research-blue)
+![Legal](https://img.shields.io/badge/legal-use_only-grey)
 
 > This project was developed as part of the Computer Networks Laboratory course during the undergraduate program at PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul). It is intended for educational purposes and may not be production-grade.
 
