@@ -3,7 +3,7 @@
 
 
 > [!WARNING]
-< ![Edu Use Only](https://img.shields.io/badge/Use-Educational--Only-orange)
+> ![Edu Use Only](https://img.shields.io/badge/Use-Educational--Only-orange)
 > This project was developed as part of the Computer Networks Laboratory course during the undergraduate program at PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul). It is intended for educational purposes and may not be production-grade.
 
 For a detailed explanation of attack detection logic, experimental setup, and results, please refer to the 🔗[**full technical report**](./report.pdf)
