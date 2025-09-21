@@ -1,8 +1,10 @@
 # Network Sniffer 2023/02
 
-![License](https://img.shields.io/badge/use-educational_or_research-blue)
-![Legal](https://img.shields.io/badge/legal-use_only-grey)
 
+
+> [!WARNING]
+> ![License](https://img.shields.io/badge/use-educational_or_research-blue)
+> ![Legal](https://img.shields.io/badge/legal-use_only-grey)
 > This project was developed as part of the Computer Networks Laboratory course during the undergraduate program at PUC-RS (Pontifícia Universidade Católica do Rio Grande do Sul). It is intended for educational purposes and may not be production-grade.
 
 For a detailed explanation of attack detection logic, experimental setup, and results, please refer to the 🔗[**full technical report**](./report.pdf)
